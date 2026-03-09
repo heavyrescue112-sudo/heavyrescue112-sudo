@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @heavyrescue112-sudo
 - 👀 I’m interested in game creation.
-- 🌱 I’m currently learning python.
+- 🌱 I know basic python, C++, C#, HTML, CSS, and Java
